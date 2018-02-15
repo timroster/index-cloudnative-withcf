@@ -1,0 +1,21 @@
+{
+    "author": [
+        {
+            "name": "Tim Robinson",
+            "email": "timro@us.ibm.com"
+        }
+    ],
+    "tags_technology": [ "cloud", "devops" ],
+    "tags_industry": [ ],
+    "tags_deployments": [ "cloud" ],
+    "title": "Introduction to Continuous Delivery Toolchains",
+    "description": "reate and manage an app using a toolchain, Orion web editor and Delivery Pipeline.",
+    "date": "2018-01-23T08:00:00-08:00",
+    "draft": false,
+    "_comment1": "is_external should be false unless the lab is required to live elsewhere (deploy to Bluemix button). external_url should only be set if is_external is true.",
+    "is_external": false,
+    "external_url": "",
+    "_comment2" : "no edits below this point, links will autopopulate",
+    "html": "",
+    "links": []
+}
